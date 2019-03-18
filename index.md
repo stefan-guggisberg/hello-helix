@@ -16,7 +16,7 @@
   -->
 ![helix-logo](./helix_logo.png) <!-- this image is served from this content repository -->
 
-# Helix - hello-helix
+# hello-helix
 
 It works! hello-helix is up and running.
 
