@@ -6,7 +6,6 @@ pipeline.log
 logs
 helix-config.yaml.old
 effective-helix-config.yaml
-.env
 
 coverage
 .nyc_output/
@@ -17,6 +16,5 @@ test-results.xml
 /.blackbox/pubring.gpg~
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
-/secrets/helix.env
-/.env
-/.wskprops
+/secrets/.env
+/secrets/.wskprops
