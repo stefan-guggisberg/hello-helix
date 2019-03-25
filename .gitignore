@@ -19,3 +19,4 @@ test-results.xml
 /.blackbox/secring.gpg
 /secrets/helix.env
 /.env
+/.wskprops
