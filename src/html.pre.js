@@ -12,12 +12,12 @@
 
 /**
  * The 'pre' function that is executed before the HTML is rendered
- * @param payload The current payload of processing pipeline
- * @param payload.content The content
+ * @param context The current payload (aka context) of processing pipeline
+ * @param context.content The content
  */
-function pre(payload) {
+function pre(context) {
   // eslint-disable-next-line no-param-reassign
-  payload.content.time = `${new Date()}`;
+  context.content.time = `${new Date()}`;
 }
 
 module.exports.pre = pre;
