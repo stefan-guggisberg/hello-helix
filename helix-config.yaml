@@ -21,4 +21,4 @@ strains:
     code: *defaultRepo
     content: *defaultRepo
     static: https://github.com/stefan-guggisberg/hello-helix.git/htdocs#master
-    package: sguggisb/17e1219c6de9bef86d3a8f5252190395376786a3
+    package: sguggisb/600b43d92a3d206687c051d2bd1b35e839bb9c2a
