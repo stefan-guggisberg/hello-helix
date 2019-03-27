@@ -32,3 +32,12 @@ It works! hello-helix is up and running.
 5. Publish your project to GitHub: `git add git remote add origin https://github.com/user/repo.git && git push`
 6. Deploy the project: `hlx deploy`
 7. Make it visible to the world: `hlx publish`
+
+## Further reading
+
+* [Start Developing Your First Helix Project in 60 Seconds](https://www.project-helix.io/)
+* [Helix Command Line Interface (hlx)](https://github.com/adobe/helix-cli/blob/master/README.md)
+* [Anatomy of a Pipeline](https://github.com/adobe/helix-pipeline#anatomy-of-a-pipeline)
+* [Pipeline Schemas](https://github.com/adobe/helix-pipeline/blob/master/docs/README.md#readme)
+* [Helix Configuration](https://github.com/adobe/helix-shared/blob/master/CONFIGURATION.md#configuration-design-guide)
+* [Troubleshooting Helix](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#troubleshooting-helix)

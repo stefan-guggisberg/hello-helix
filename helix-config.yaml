@@ -18,7 +18,9 @@ strains:
     static: *localRepo
 
   default:
+    url: https://www.project-helix.info/
     code: *defaultRepo
     content: *defaultRepo
+    directoryIndex: index.html
     static: https://github.com/stefan-guggisberg/hello-helix.git/htdocs#master
     package: sguggisb/600b43d92a3d206687c051d2bd1b35e839bb9c2a
