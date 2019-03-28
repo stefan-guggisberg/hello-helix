@@ -27,7 +27,7 @@ strains:
     directoryIndex: index.html
     package: sguggisb/4b2a3cf68dd6af827858afe464e9534a4dcf9c94
 
-  deno:
+  demo:
     <<: *basestrain
     url: https://demo.project-helix.info/
     directoryIndex: index.html
