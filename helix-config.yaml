@@ -8,19 +8,25 @@ definitions:
     # default repository. set to git remote repository before deployment
     - &defaultRepo "https://github.com/stefan-guggisberg/hello-helix.git#master"
     # local development repository.
-    - &localRepo "http://localhost/local/default.git"
+    #- &localRepo "http://localhost/local/default.git"
+  strains:
+    base:
+      &basestrain
+      code: *defaultRepo
+      content: *defaultRepo
+      static: *defaultRepo
 
 strains:
-  local-dev:
-    url: http://localhost:3000/
-    code: *localRepo
-    content: *localRepo
-    static: *localRepo
-
   default:
-    url: https://www.project-helix.info/
-    code: *defaultRepo
-    content: *defaultRepo
+    <<: *basestrain
+
+  www:
+    <<: *basestrain
+    url: https://www.project-helix.info
     directoryIndex: index.html
-    static: https://github.com/stefan-guggisberg/hello-helix.git/htdocs#master
-    package: sguggisb/600b43d92a3d206687c051d2bd1b35e839bb9c2a
+
+  dev:
+    <<: *basestrain
+    url: https://dev.project-helix.info
+    directoryIndex: index.html
+
