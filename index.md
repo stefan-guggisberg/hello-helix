@@ -18,20 +18,7 @@
 
 # hello-helix
 
-It works! hello-helix is up and running.
-
-## What's next?
-
-1. Try editing `index.md` and see what happens.
-2. Try editing `src/html.htl` to change the HTML output
-3. Try editing `src/static/style.css` to change the way this page looks
-
-## And then?
-
-4. Commit your changes: `git commit -a`
-5. Publish your project to GitHub: `git remote add origin https://github.com/user/repo.git && git push`
-6. Deploy the project: `hlx deploy`
-7. Make it visible to the world: `hlx publish`
+Lore ipsum..,
 
 ## Further reading
 
@@ -40,4 +27,6 @@ It works! hello-helix is up and running.
 * [Anatomy of a Pipeline](https://github.com/adobe/helix-pipeline#anatomy-of-a-pipeline)
 * [Pipeline Schemas](https://github.com/adobe/helix-pipeline/blob/master/docs/README.md#readme)
 * [Helix Configuration](https://github.com/adobe/helix-shared/blob/master/CONFIGURATION.md#configuration-design-guide)
+* [Configuration Schemas](https://github.com/adobe/helix-shared/blob/master/docs/config.schema.md)
 * [Troubleshooting Helix](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#troubleshooting-helix)
+* [Helix Caching](https://www.project-helix.io/doc/general/shared-caching.html)
