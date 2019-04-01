@@ -31,3 +31,7 @@ A compilation of links to Helix documentation scattered in different repositorie
 * [Configuration Schemas](https://github.com/adobe/helix-shared/blob/master/docs/config.schema.md)
 * [Troubleshooting Helix](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#troubleshooting-helix)
 * [Helix Caching](https://www.project-helix.io/doc/general/shared-caching.html)
+* [External Services](https://github.com/adobe/project-helix/blob/master/SERVICES.md)
+* [Adobe I/O Runtime Developer Guide](https://git.corp.adobe.com/rstewart/runtime-documentation/blob/master/README.md)
+
+* [Helix GitHUb Repositories](https://github.com/search?p=1&q=topic%3Ahelix+org%3Aadobe&type=Repositories)
