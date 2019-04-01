@@ -23,7 +23,10 @@ Lore ipsum..,
 ## Further reading
 
 * [Start Developing Your First Helix Project in 60 Seconds](https://www.project-helix.io/)
+* [Getting Started with Helix](https://github.com/adobe/helix-home/blob/master/getting-started.md)
 * [Helix Command Line Interface (hlx)](https://github.com/adobe/helix-cli/blob/master/README.md)
+* [Basic concepts](https://github.com/adobe/helix-cli/blob/master/docs/concepts.md)
+* [Rendering](https://github.com/adobe/helix-cli/blob/master/docs/usage.md)
 * [Anatomy of a Pipeline](https://github.com/adobe/helix-pipeline#anatomy-of-a-pipeline)
 * [Pipeline Schemas](https://github.com/adobe/helix-pipeline/blob/master/docs/README.md#readme)
 * [Helix Configuration](https://github.com/adobe/helix-shared/blob/master/CONFIGURATION.md#configuration-design-guide)
