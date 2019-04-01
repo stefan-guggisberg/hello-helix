@@ -18,9 +18,7 @@
 
 # hello-helix
 
-Lore ipsum..,
-
-## Further reading
+A compilation of links to Helix documentation scattered in different repositories:
 
 * [Start Developing Your First Helix Project in 60 Seconds](https://www.project-helix.io/)
 * [Getting Started with Helix](https://github.com/adobe/helix-home/blob/master/getting-started.md)
