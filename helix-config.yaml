@@ -16,24 +16,20 @@ definitions:
       static: *defaultRepo
 
 strains:
-  default:
+  - name: default
     <<: *basestrain
-    package: sguggisb/91fdd1cd81142cce28022de6f4f8b7f178474def
 
-  www:
+  - name: www
     <<: *basestrain
     url: https://www.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/91fdd1cd81142cce28022de6f4f8b7f178474def
 
-  demo:
+  - name: demo
     <<: *basestrain
     url: https://demo.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/91fdd1cd81142cce28022de6f4f8b7f178474def
 
-  dev:
+  - name: dev
     <<: *basestrain
     url: https://dev.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/91fdd1cd81142cce28022de6f4f8b7f178474def
