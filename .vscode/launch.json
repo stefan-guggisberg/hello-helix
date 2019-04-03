@@ -18,7 +18,15 @@
             "address": "127.0.0.1",
             "port": 9229,
             "localRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "node",
+            "request": "attach",
+            "name": "Attach to OpenWhisk docker",
+            "address": "127.0.0.1",
+            "port": 9229,
+            "localRoot": "${workspaceFolder}/.hlx/build",
+            "remoteRoot": "/"
         }
-
     ]
 }
