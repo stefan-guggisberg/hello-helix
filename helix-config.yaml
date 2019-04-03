@@ -10,7 +10,8 @@ definitions:
     # local development repository.
     #- &localRepo "http://localhost/local/default.git"
   strains:
-    base: &basestrain
+    base:
+      &basestrain
       code: *defaultRepo
       content: *defaultRepo
       static: *defaultRepo
@@ -18,18 +19,22 @@ definitions:
 strains:
   - name: default
     <<: *basestrain
+    package: sguggisb/b83fa3c5043a873f6dd9df3f99e4a05a3ec7a140
 
   - name: www
     <<: *basestrain
     url: https://www.project-helix.info/
     directoryIndex: index.html
+    package: sguggisb/b83fa3c5043a873f6dd9df3f99e4a05a3ec7a140
 
   - name: demo
     <<: *basestrain
     url: https://demo.project-helix.info/
     directoryIndex: index.html
+    package: sguggisb/b83fa3c5043a873f6dd9df3f99e4a05a3ec7a140
 
   - name: dev
     <<: *basestrain
     url: https://dev.project-helix.info/
     directoryIndex: index.html
+    package: sguggisb/b83fa3c5043a873f6dd9df3f99e4a05a3ec7a140
