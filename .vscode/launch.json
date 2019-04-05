@@ -5,6 +5,7 @@
     "version": "0.2.0",
     "configurations": [
 
+
         {
             "type": "node",
             "request": "attach",
@@ -24,9 +25,7 @@
             "request": "attach",
             "name": "Attach to OpenWhisk docker",
             "address": "127.0.0.1",
-            "port": 9229,
-            "localRoot": "${workspaceFolder}/.hlx/build",
-            "remoteRoot": "/"
+            "port": 9229
         }
     ]
 }
