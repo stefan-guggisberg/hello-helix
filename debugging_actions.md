@@ -32,6 +32,15 @@ cd html
 zip -r ../html.zip .
 ```
 
+To manually deploy and invoke the same action on Adobe I/O Runtime:
+
+```bash
+wsk action create <action name> --kind nodejs:10 html.zip
+wsk action invoke <action name> -p owner adobe -p repo project-helix.io -p ref master -p path index.md -p extension html -p branch master -p strain default --result
+wsk action get <action name> --url
+curl -v "<action url>?owner=adobe&repo=project-helix.io&ref=master&path=/index.md&selector=&extension=html&branch=master&strain=default&params=(null)"
+```
+
 ## Some Links
 
 [Adobe I/O Runtime Developer Guide](https://git.corp.adobe.com/rstewart/runtime-documentation/blob/master/README.md)
