@@ -36,5 +36,5 @@ A compilation of links to Helix documentation scattered in different repositorie
 
 Misc. resources:
 
-* [Helix GitHUb Repositories](https://github.com/AdobeDocs/adobeio-runtime/tree/master#adobe-io-runtime-developer-guide)
+* [Helix GitHub Repositories](https://github.com/AdobeDocs/adobeio-runtime/tree/master#adobe-io-runtime-developer-guide)
 * [Adobe I/O Runtime Developer Guide](https://git.corp.adobe.com/rstewart/runtime-documentation/blob/master/README.md)
