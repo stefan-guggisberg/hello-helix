@@ -30,10 +30,11 @@ A compilation of links to Helix documentation scattered in different repositorie
 * [Helix Configuration](https://github.com/adobe/helix-shared/blob/master/CONFIGURATION.md#configuration-design-guide)
 * [Configuration Schemas](https://github.com/adobe/helix-shared/blob/master/docs/config.schema.md)
 * [Troubleshooting Helix](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#troubleshooting-helix)
+* [Debug OpenWhisk actions](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#debug-openwhisk-action)
 * [Helix Caching](https://www.project-helix.io/doc/general/shared-caching.html)
 * [External Services](https://github.com/adobe/project-helix/blob/master/SERVICES.md)
 
 Misc. resources:
 
-* [Helix GitHUb Repositories](https://github.com/search?p=1&q=topic%3Ahelix+org%3Aadobe&type=Repositories)
+* [Helix GitHUb Repositories](https://github.com/AdobeDocs/adobeio-runtime/tree/master#adobe-io-runtime-developer-guide)
 * [Adobe I/O Runtime Developer Guide](https://git.corp.adobe.com/rstewart/runtime-documentation/blob/master/README.md)
