@@ -55,7 +55,7 @@ Launch VSCode, switch to Debug View, add the following launch configuration:
 
 ... and attach the debugger (`F5`). On the lower left you'll see the `LOADED SCRIPTS` tree:
 
-![Loaded source files](/assets/LOADED_SCRIPTS.png)
+![Loaded source files](LOADED_SCRIPTS.png)
 
 Navigate to the source code of your action and bundled dependencies and set breakpoints where appropriate.
 
