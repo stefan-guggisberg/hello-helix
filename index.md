@@ -39,3 +39,4 @@ Misc. resources:
 
 * [Helix GitHub Repositories](https://github.com/AdobeDocs/adobeio-runtime/tree/master#adobe-io-runtime-developer-guide)
 * [Adobe I/O Runtime Developer Guide](https://git.corp.adobe.com/rstewart/runtime-documentation/blob/master/README.md)
+* [Error handling in OpenWhisk actions](https://akrabat.com/error-handling-in-openwhisk-actions/)
