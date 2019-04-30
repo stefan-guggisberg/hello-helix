@@ -16,10 +16,6 @@ definitions:
       content: *defaultRepo
       static: *defaultRepo
 
-    proxy:
-      &proxystrain
-      origin: https://adobedocs.github.io/developer-support/
-
 strains:
   - name: default
     <<: *basestrain
@@ -42,7 +38,3 @@ strains:
     url: https://dev.project-helix.info/
     directoryIndex: index.html
     package: sguggisb/26b0ee90bedd5b621a39fd56459e0412106e6be8
-
-  - name: support
-    <<: *proxystrain
-    url: https://stefan.project-helix.info/support
