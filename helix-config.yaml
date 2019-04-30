@@ -23,25 +23,25 @@ definitions:
 strains:
   - name: default
     <<: *basestrain
-    package: sguggisb/a3fed75ed24ae1d37c1623a5692222562c66ae74
+    package: sguggisb/68cf0675849bbbc0ef5ca0a7c1b1560a3fe36312
 
   - name: www
     <<: *basestrain
     url: https://www.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/a3fed75ed24ae1d37c1623a5692222562c66ae74
+    package: sguggisb/68cf0675849bbbc0ef5ca0a7c1b1560a3fe36312
 
   - name: demo
     <<: *basestrain
     url: https://demo.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/a3fed75ed24ae1d37c1623a5692222562c66ae74
+    package: sguggisb/68cf0675849bbbc0ef5ca0a7c1b1560a3fe36312
 
   - name: dev
     <<: *basestrain
     url: https://dev.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/a3fed75ed24ae1d37c1623a5692222562c66ae74
+    package: sguggisb/68cf0675849bbbc0ef5ca0a7c1b1560a3fe36312
 
   - name: support
     <<: *proxystrain
