@@ -16,25 +16,33 @@ definitions:
       content: *defaultRepo
       static: *defaultRepo
 
+    proxy:
+      &proxystrain
+      origin: https://adobedocs.github.io/dev-support
+
 strains:
   - name: default
     <<: *basestrain
-    package: sguggisb/b83fa3c5043a873f6dd9df3f99e4a05a3ec7a140
+    package: sguggisb/a3fed75ed24ae1d37c1623a5692222562c66ae74
 
   - name: www
     <<: *basestrain
     url: https://www.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/b83fa3c5043a873f6dd9df3f99e4a05a3ec7a140
+    package: sguggisb/a3fed75ed24ae1d37c1623a5692222562c66ae74
 
   - name: demo
     <<: *basestrain
     url: https://demo.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/b83fa3c5043a873f6dd9df3f99e4a05a3ec7a140
+    package: sguggisb/a3fed75ed24ae1d37c1623a5692222562c66ae74
 
   - name: dev
     <<: *basestrain
     url: https://dev.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/b83fa3c5043a873f6dd9df3f99e4a05a3ec7a140
+    package: sguggisb/a3fed75ed24ae1d37c1623a5692222562c66ae74
+
+  - name: support
+    <<: *proxystrain
+    url: https://www.project-helix.info/support
