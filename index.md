@@ -29,6 +29,7 @@ A compilation of links to Helix documentation scattered in different repositorie
 * [Pipeline Schemas](https://github.com/adobe/helix-pipeline/blob/master/docs/README.md#readme)
 * [Helix Configuration](https://github.com/adobe/helix-shared/blob/master/CONFIGURATION.md#configuration-design-guide)
 * [Configuration Schemas](https://github.com/adobe/helix-shared/blob/master/docs/config.schema.md)
+* [Resource Resolution State Diagram](https://github.com/adobe/helix-central-deploy-action/issues/5#issuecomment-486888064)
 * [Troubleshooting Helix](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#troubleshooting-helix)
 * [Debug OpenWhisk actions](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#debug-openwhisk-action)
 * [Helix Caching](https://www.project-helix.io/doc/general/shared-caching.html)
@@ -38,3 +39,6 @@ Misc. resources:
 
 * [Helix GitHub Repositories](https://github.com/AdobeDocs/adobeio-runtime/tree/master#adobe-io-runtime-developer-guide)
 * [Adobe I/O Runtime Developer Guide](https://git.corp.adobe.com/rstewart/runtime-documentation/blob/master/README.md)
+* [OpenWhisk Actions](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions.md#openwhisk-actions)
+* [OpenWhisk Web Actions](https://akrabat.com/openwhisk-web-actions/)
+* [Error handling in OpenWhisk actions](https://akrabat.com/error-handling-in-openwhisk-actions/)
