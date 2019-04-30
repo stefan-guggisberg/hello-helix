@@ -37,8 +37,8 @@ A compilation of links to Helix documentation scattered in different repositorie
 
 Misc. resources:
 
-* [Helix GitHub Repositories](https://github.com/AdobeDocs/adobeio-runtime/tree/master#adobe-io-runtime-developer-guide)
-* [Adobe I/O Runtime Developer Guide](https://git.corp.adobe.com/rstewart/runtime-documentation/blob/master/README.md)
+* [Helix GitHub Repositories](https://github.com/search?p=1&q=topic%3Ahelix+org%3Aadobe&type=Repositories)
+* [Adobe I/O Runtime Developer Guide](https://github.com/AdobeDocs/adobeio-runtime/tree/master#adobe-io-runtime-developer-guide)
 * [OpenWhisk Actions](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions.md#openwhisk-actions)
 * [OpenWhisk Web Actions](https://akrabat.com/openwhisk-web-actions/)
 * [Error handling in OpenWhisk actions](https://akrabat.com/error-handling-in-openwhisk-actions/)
