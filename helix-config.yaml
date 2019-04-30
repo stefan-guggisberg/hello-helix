@@ -18,31 +18,31 @@ definitions:
 
     proxy:
       &proxystrain
-      origin: https://adobedocs.github.io/dev-support
+      origin: https://adobedocs.github.io/developer-support/
 
 strains:
   - name: default
     <<: *basestrain
-    package: sguggisb/5c6bcf75811234f9174f881075217361d3ee195e
+    package: sguggisb/a022269a150bbcc307f7e9c08b9a33b4937ea80f
 
   - name: www
     <<: *basestrain
     url: https://www.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/5c6bcf75811234f9174f881075217361d3ee195e
+    package: sguggisb/a022269a150bbcc307f7e9c08b9a33b4937ea80f
 
   - name: demo
     <<: *basestrain
     url: https://demo.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/5c6bcf75811234f9174f881075217361d3ee195e
+    package: sguggisb/a022269a150bbcc307f7e9c08b9a33b4937ea80f
 
   - name: dev
     <<: *basestrain
     url: https://dev.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/5c6bcf75811234f9174f881075217361d3ee195e
+    package: sguggisb/a022269a150bbcc307f7e9c08b9a33b4937ea80f
 
   - name: support
     <<: *proxystrain
-    url: https://www.project-helix.info/support
+    url: https://stefan.project-helix.info/support
