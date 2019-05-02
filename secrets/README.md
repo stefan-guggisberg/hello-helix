@@ -17,8 +17,8 @@ After validation you will be added to the list of blackbox admins and will be ab
 
 | file              | comments |
 |-------------------|----------|
-| `.wskprops_helix` | Adobe I/O Runtime credentials of the `helix` namespace. This namespace is used for all helix global management actions and the _Helix Bot_. |
-| `.wskprops_helix-clients` | Adobe Runtime credentials of the `helix-clients` namespace. This namespace is used for managed customers until we are able to easily create per-customer namespaces.
+| `.wskprops` | Adobe I/O Runtime credentials of the `sguggisb` namespace.
+| `.env` | Environment variables needed for deploying and publishing the project.
 
 ## PGP Primer
 
