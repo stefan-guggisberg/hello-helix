@@ -24,6 +24,8 @@ A compilation of links to Helix documentation scattered in different repositorie
 * [Getting Started with Helix](https://github.com/adobe/helix-home/blob/master/getting-started.md)
 * [Helix Command Line Interface (hlx)](https://github.com/adobe/helix-cli/blob/master/README.md)
 * [Basic concepts](https://github.com/adobe/helix-cli/blob/master/docs/concepts.md)
+* [Helix Architecture: Overwiew](https://github.com/adobe/helix-home/blob/master/architecture.md)
+* [Request resolution](https://github.com/adobe/helix-central-deploy-action/issues/5#issuecomment-486888064)
 * [Rendering](https://github.com/adobe/helix-cli/blob/master/docs/usage.md)
 * [Anatomy of a Pipeline](https://github.com/adobe/helix-pipeline#anatomy-of-a-pipeline)
 * [Pipeline Schemas](https://github.com/adobe/helix-pipeline/blob/master/docs/README.md#readme)
@@ -34,6 +36,12 @@ A compilation of links to Helix documentation scattered in different repositorie
 * [Debug OpenWhisk actions](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#debug-openwhisk-action)
 * [Helix Caching](https://www.project-helix.io/doc/general/shared-caching.html)
 * [External Services](https://github.com/adobe/project-helix/blob/master/SERVICES.md)
+
+Perfomance Testing:
+
+* [Debugging with WebPageTest](https://docs.fastly.com/guides/debugging/debugging-with-webpagetest#)
+* [WebPageTest](https://www.webpagetest.org/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 Misc. resources:
 
