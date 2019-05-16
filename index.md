@@ -27,6 +27,7 @@ A compilation of links to Helix documentation scattered in different repositorie
 * [Helix Architecture: Overwiew](https://github.com/adobe/helix-home/blob/master/architecture.md)
 * [Request resolution](https://github.com/adobe/helix-central-deploy-action/issues/5#issuecomment-486888064)
 * [Rendering](https://github.com/adobe/helix-cli/blob/master/docs/usage.md)
+* [Helix Publish Architecture](https://github.com/adobe/helix-publish/tree/master/docs)
 * [Anatomy of a Pipeline](https://github.com/adobe/helix-pipeline#anatomy-of-a-pipeline)
 * [Pipeline Schemas](https://github.com/adobe/helix-pipeline/blob/master/docs/README.md#readme)
 * [Helix Configuration](https://github.com/adobe/helix-shared/blob/master/CONFIGURATION.md#configuration-design-guide)
