@@ -34,6 +34,7 @@ A compilation of links to Helix documentation scattered over different repositor
 * [Configuration Schemas](https://github.com/adobe/helix-shared/blob/master/docs/config.schema.md)
 * [Resource Resolution State Diagram](https://github.com/adobe/helix-central-deploy-action/issues/5#issuecomment-486888064)
 * [Troubleshooting Helix](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#troubleshooting-helix)
+* [Deciphering Fastly-Debug header](https://support.fastly.com/hc/en-us/community/posts/360040167211-Deciphering-Fastly-Debug-header)
 * [Debug OpenWhisk actions](https://github.com/adobe/project-helix.io/blob/master/doc/general/troubleshooting.md#debug-openwhisk-action)
 * [Helix Caching](https://www.project-helix.io/doc/general/shared-caching.html)
 * [External Services](https://github.com/adobe/project-helix/blob/master/SERVICES.md)
