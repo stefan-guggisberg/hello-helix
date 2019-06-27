@@ -52,3 +52,5 @@ Misc. resources:
 * [OpenWhisk Actions](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions.md#openwhisk-actions)
 * [OpenWhisk Web Actions](https://akrabat.com/openwhisk-web-actions/)
 * [Error handling in OpenWhisk actions](https://akrabat.com/error-handling-in-openwhisk-actions/)
+* [OpenWhisk Standalone Server](https://github.com/apache/incubator-openwhisk/tree/master/core/standalone)
+* [wskdebug](https://git.corp.adobe.com/nui/wskdebug)
