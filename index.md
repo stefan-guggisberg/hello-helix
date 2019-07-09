@@ -45,6 +45,10 @@ Perfomance Testing:
 * [WebPageTest](https://www.webpagetest.org/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
+Troubleshooting:
+
+* [Openwhisk Action Performance Metrics](https://insights-grafana-prod.adobe.io/d/Oew1lvymk/openwhisk-action-performance-metrics?var-namespace=helix&from=now-15m&to=now&orgId=1&refresh=10s)
+
 Misc. resources:
 
 * [Helix GitHub Repositories](https://github.com/search?p=1&q=topic%3Ahelix+org%3Aadobe&type=Repositories)
