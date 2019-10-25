@@ -21,3 +21,10 @@ function pre(context) {
 }
 
 module.exports.pre = pre;
+/*
+module.exports.before = {
+  esi: async (context, action) => {
+    context.response.headers['Link'] = '</helix_logo.png>; rel=preload; as=image';
+  }
+};
+*/
