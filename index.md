@@ -49,6 +49,16 @@ Troubleshooting:
 
 * [Openwhisk Action Performance Metrics](https://insights-grafana-prod.adobe.io/d/Oew1lvymk/openwhisk-action-performance-metrics?var-namespace=helix&from=now-15m&to=now&orgId=1&refresh=10s)
 
+Helix Sites:
+
+* [Adobe Lightroom](https://lr.adobelanding.com)
+* [Helix Home](https://helix-home-adobe.project-helix.page/README.html)
+* [Project Helix Update](https://not-slides-davidnuescheler.project-helix.page/decks/helix-update-q3.html)
+* [Adobe Character Animator](https://character-landing-davidnuescheler.project-helix.page)
+* [Adobe Premiere Rush](https://rush-landing-davidnuescheler.project-helix.page)
+* [Analytics 2.0 APIs](https://analytics-2-0-apis-davidnuescheler.project-helix.page/README.html)
+* [Not Slides](https://not-slides-davidnuescheler.project-helix.page/decks/helix-update-q3.html) ([decks](https://drive.google.com/drive/folders/1ELX0MvQewlIGVBsTsfVBzszd18pzTaLC))
+
 Misc. resources:
 
 * [Helix GitHub Repositories](https://github.com/search?p=1&q=topic%3Ahelix+org%3Aadobe&type=Repositories)

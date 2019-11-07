@@ -21,10 +21,10 @@ function pre(context) {
 }
 
 module.exports.pre = pre;
-/*
+
 module.exports.before = {
-  esi: async (context, action) => {
-    context.response.headers['Link'] = '</helix_logo.png>; rel=preload; as=image';
-  }
+  esi: async (context) => {
+    // eslint-disable-next-line no-param-reassign
+    context.response.headers.link = '</helix_logo.png>; rel=preload; as=image';
+  },
 };
-*/

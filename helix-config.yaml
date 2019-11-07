@@ -19,22 +19,22 @@ definitions:
 strains:
   - name: default
     <<: *basestrain
-    package: sguggisb/c37878092e01b0807109d1d45019f5269b1ccd1b
+    package: sguggisb/00060d85f5de2f45d702e19d0b038a4a83f23133
 
   - name: www
     <<: *basestrain
     url: https://www.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/c37878092e01b0807109d1d45019f5269b1ccd1b
+    package: sguggisb/00060d85f5de2f45d702e19d0b038a4a83f23133
 
   - name: demo
     <<: *basestrain
     url: https://demo.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/c37878092e01b0807109d1d45019f5269b1ccd1b
+    package: sguggisb/00060d85f5de2f45d702e19d0b038a4a83f23133
 
   - name: dev
     <<: *basestrain
     url: https://dev.project-helix.info/
     directoryIndex: index.html
-    package: sguggisb/c37878092e01b0807109d1d45019f5269b1ccd1b
+    package: sguggisb/00060d85f5de2f45d702e19d0b038a4a83f23133
