@@ -51,6 +51,7 @@ Perfomance Testing:
 Troubleshooting:
 
 * [Openwhisk Action Performance Metrics](https://insights-grafana-prod.adobe.io/d/Oew1lvymk/openwhisk-action-performance-metrics?var-namespace=helix&from=now-15m&to=now&orgId=1&refresh=10s)
+* [Helix, trace and debug](https://acapt.adobeio-static.net/helix-tracedebug-latest/index.html#334f2aa9ea5d41428f2aa9ea5de142d1)
 
 Helix Sites:
 
