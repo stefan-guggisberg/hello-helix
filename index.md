@@ -22,6 +22,9 @@ A compilation of links to Helix documentation scattered over different repositor
 
 * [Start Developing Your First Helix Project in 60 Seconds](https://www.project-helix.io/)
 * [Getting Started with Helix](https://github.com/adobe/helix-home/blob/master/getting-started.md)
+* [Helix Pages](https://github.com/adobe/helix-pages)
+* [Google Drive Integration](https://github.com/adobe/helix-pages#how-to-use-with-google-drive)
+* [Sharepoint OneDrive Integration](https://github.com/adobe-private/helix-word2md#setting-up-a-shared-folder-in-onedrive)
 * [Helix Command Line Interface (hlx)](https://github.com/adobe/helix-cli/blob/master/README.md)
 * [Basic concepts](https://github.com/adobe/helix-cli/blob/master/docs/concepts.md)
 * [Helix Architecture: Overwiew](https://github.com/adobe/helix-home/blob/master/architecture.md)
