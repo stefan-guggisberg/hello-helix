@@ -22,6 +22,9 @@ A compilation of links to Helix documentation scattered over different repositor
 
 * [Start Developing Your First Helix Project in 60 Seconds](https://www.project-helix.io/)
 * [Getting Started with Helix](https://github.com/adobe/helix-home/blob/master/getting-started.md)
+* [Helix Pages](https://github.com/adobe/helix-pages)
+* [Google Drive Integration](https://github.com/adobe/helix-pages#how-to-use-with-google-drive)
+* [Sharepoint OneDrive Integration](https://github.com/adobe-private/helix-word2md#setting-up-a-shared-folder-in-onedrive)
 * [Helix Command Line Interface (hlx)](https://github.com/adobe/helix-cli/blob/master/README.md)
 * [Basic concepts](https://github.com/adobe/helix-cli/blob/master/docs/concepts.md)
 * [Helix Architecture: Overwiew](https://github.com/adobe/helix-home/blob/master/architecture.md)
@@ -47,6 +50,10 @@ Perfomance Testing:
 
 Troubleshooting:
 
+* [Helix, trace and debug](https://acapt.adobeio-static.net/helix-tracedebug-latest/index.html#334f2aa9ea5d41428f2aa9ea5de142d1)
+* [Coralogix](https://helix.coralogix.com/#/query/logs)
+* [Epsagon](https://dashboard.epsagon.com/search)
+* [New Relic](https://synthetics.newrelic.com/accounts/2429334/monitors/1f629e6f-5192-405e-bcfa-eef283ed0d27)
 * [Openwhisk Action Performance Metrics](https://insights-grafana-prod.adobe.io/d/Oew1lvymk/openwhisk-action-performance-metrics?var-namespace=helix&from=now-15m&to=now&orgId=1&refresh=10s)
 
 Helix Sites:
