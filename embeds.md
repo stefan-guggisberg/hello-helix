@@ -86,3 +86,9 @@ Are all valid embeds, but
 /foo.txt
 
 isn't one.
+
+/README.html
+
+[![](https://theblog-adobe.hlx.page/hlx_1632f011520fa61bf99b41dbe9d86496435dd675.png)](/README.html)
+
+[![Cybertruck](http://img.youtube.com/vi/m7atGkba-Z8/0.jpg)](https://www.youtube.com/watch?v=m7atGkba-Z8 "Cybertruck")
