@@ -20,6 +20,8 @@
 
 A compilation of links to Helix documentation scattered over different repositories:
 
+* [How to Helix (using Google Drive & Helix Pages)](https://howtohelix.spenhar.org/)
+* [Getting Started with Helix Pages](https://github.com/adobe/helix-home/blob/master/getting-started-2.0.md)
 * [Start Developing Your First Helix Project in 60 Seconds](https://www.project-helix.io/)
 * [Getting Started with Helix](https://github.com/adobe/helix-home/blob/master/getting-started.md)
 * [Helix Pages](https://github.com/adobe/helix-pages)
