@@ -1,0 +1,21 @@
+###
+https://www.project-helix.info/index.html
+X-Debug: 7lJ8jndU0aEBdKxIn0VRmS
+###
+https://www.project-helix.info/test.html
+X-Debug: 7lJ8jndU0aEBdKxIn0VRmS
+###
+https://www.project-helix.info/embeds.html
+X-Debug: 7lJ8jndU0aEBdKxIn0VRmS
+
+###
+https://www.project-helix.info/favicon.ico
+X-Debug: 7lJ8jndU0aEBdKxIn0VRmS
+
+###
+https://www.project-helix.info/helix_logo.png
+X-Debug: 7lJ8jndU0aEBdKxIn0VRmS
+
+###
+https://www.project-helix.info/does_not_exist.html
+X-Debug: 7lJ8jndU0aEBdKxIn0VRmS
