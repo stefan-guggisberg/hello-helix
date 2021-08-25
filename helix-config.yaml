@@ -19,25 +19,25 @@ definitions:
 strains:
   - name: default
     <<: *basestrain
-    package: sguggisb/35cf4a815f449392a2c0ad54b04a9f5a96c7180f
+    package: sguggisb/github-com--stefan-guggisberg--hello-helix--master-dirty
 
   - name: www
     <<: *basestrain
     condition:
       url: 'https://www.project-helix.info/'
     directoryIndex: index.html
-    package: sguggisb/35cf4a815f449392a2c0ad54b04a9f5a96c7180f
+    package: sguggisb/github-com--stefan-guggisberg--hello-helix--master-dirty
 
   - name: demo
     <<: *basestrain
     condition:
       url: 'https://demo.project-helix.info/'
     directoryIndex: index.html
-    package: sguggisb/35cf4a815f449392a2c0ad54b04a9f5a96c7180f
+    package: sguggisb/github-com--stefan-guggisberg--hello-helix--master-dirty
 
   - name: dev
     <<: *basestrain
     condition:
       url: 'https://dev.project-helix.info/'
     directoryIndex: index.html
-    package: sguggisb/35cf4a815f449392a2c0ad54b04a9f5a96c7180f
+    package: sguggisb/github-com--stefan-guggisberg--hello-helix--master-dirty
